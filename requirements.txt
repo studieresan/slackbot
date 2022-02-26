@@ -1,1 +1,1 @@
-slack-bolt=1.11.5
+slack-bolt==1.11.5
