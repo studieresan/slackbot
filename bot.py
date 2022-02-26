@@ -20,4 +20,4 @@ def handle_mention(client, event, logger):
     )
 
 
-app.start()
+app.start(port=int(os.environ.get("PORT")))
