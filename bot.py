@@ -1,10 +1,7 @@
 import os
 # Use the package we installed
 from slack_bolt import App
-from dotenv import load_dotenv
 
-
-load_dotenv()
 # Initializes your app with your bot token and signing secret
 app = App(
     token=os.environ.get("SLACK_BOT_TOKEN"),
