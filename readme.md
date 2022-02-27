@@ -1,0 +1,1 @@
+Här är en slackbot som (när du taggar boten) länkar meddelandet i #formulär kanalen. Kan vara bra om ni t.ex. vill samla alla formulär på ett och samma ställe. 
